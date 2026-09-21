@@ -12,6 +12,7 @@ LibrarySystem - Represents a library management system that needs to be integrat
 
 
 Target Object:
+
 SchoolManagementApp - Represents a unified school management application with a common interface for integrating systems. It defines the integrateSystem() method as the target method.
 
 
